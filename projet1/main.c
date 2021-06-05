@@ -26,6 +26,7 @@ int compteurDeMinuscule(char chaine[])
     while(character != '\0');
 
     return compteur;
+    //test
 }
 
 
